@@ -76,6 +76,9 @@ Open source RGB lighting control that doesn't depend on manufacturer software - 
 [cromer/tuf-manager](https://git.cromer.cl/cromer/tuf-manager)  
 The software includes 2 different user interfaces, CLI and GUI. It is written in Vala and uses GTK3 for the GUI.
 
+[anaslaham/faustus-gnome-extension](https://github.com/anaslaham/faustus-gnome-extension)
+A gnome extension that provides an easy and convenient way to change settings for your tuf laptop in the GNOME desktop environment based on the open source driver faustus for Tuf gaming laptops.
+
 ## Installation
 
 How to: first disable old drivers, then proceed using make to test that it works at all, then install via DKMS permanently and enable on boot.
